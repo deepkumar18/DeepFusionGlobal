@@ -14,7 +14,8 @@ export const projectSectionData: ProjectSectionProps = {
         alt: 'portfolio-1',
       },
       title: 'Cloud Migrate Pro',
-      description: 'Seamlessly move your workloads to the cloud with zero downtime.',
+      description:
+        'Seamlessly move your workloads to the cloud with zero downtime.',
     },
     {
       slug: '/project/single',
@@ -23,7 +24,8 @@ export const projectSectionData: ProjectSectionProps = {
         alt: 'portfolio-1',
       },
       title: 'Custom Software Development',
-      description: 'Tailored digital solutions to accelerate your business growth.',
+      description:
+        'Tailored digital solutions to accelerate your business growth.',
     },
     {
       slug: '/project/single',
@@ -31,8 +33,8 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/3.png',
         alt: 'portfolio-1',
       },
-      title: 'Cloud Migrate Pro',
-      description: 'Lorem Ipsum is simply dummy',
+      title: 'IT Infrastructure & DevOps',
+      description: 'Build, scale, and manage secure, cloud-native infrastructure.',
     },
     {
       slug: '/project/single',
@@ -40,8 +42,8 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/4.png',
         alt: 'portfolio-1',
       },
-      title: 'Cloud Migrate Pro',
-      description: 'Lorem Ipsum is simply dummy',
+      title: 'AI & Automation Solutions',
+      description: 'Harness intelligence to automate, predict, and optimize.',
     },
   ],
 };

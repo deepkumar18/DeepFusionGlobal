@@ -14,7 +14,8 @@ export const projectSectionData: ProjectSectionProps = {
         alt: 'portfolio-1',
       },
       title: 'Cloud Migrate Pro',
-      description: 'Seamlessly move your workloads to the cloud with zero downtime.',
+      description:
+        'Seamlessly move your workloads to the cloud with zero downtime.',
     },
     {
       slug: '/project/single',
@@ -23,7 +24,8 @@ export const projectSectionData: ProjectSectionProps = {
         alt: 'portfolio-1',
       },
       title: 'Custom Software Development',
-      description: 'Tailored digital solutions to accelerate your business growth.',
+      description:
+        'Tailored digital solutions to accelerate your business growth.',
     },
     {
       slug: '/project/single',

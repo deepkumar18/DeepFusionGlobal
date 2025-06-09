@@ -21,8 +21,8 @@ export function BrandLogo() {
       <Image
         className="logo-dark hidden dark:block"
         src={logoDark.src}
-        width={400 }
-        height={ 100 }
+        width={400}
+        height={100}
         placeholder="blur"
         blurDataURL={logoDark.blurDataURL}
         alt={`${process.env.NEXT_PUBLIC_SITE_NAME} brand logo`}
