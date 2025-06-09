@@ -4,7 +4,7 @@ import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa6';
 export const footerSectionData: FooterSectionProps = {
   about: {
     description:
-      'Lorem Ipsum is simply is dumi omy is text Loremo Ipsum is simply is out no our o dummy text.',
+      'Deep Fusion Tech Solutions (DFTS) is a global IT services company offering software development, data analytics, and digital transformation solutions. We fuse innovation with technology to empower your business vision.',
     socialLinks: [
       {
         icon: <FaFacebookF />,
