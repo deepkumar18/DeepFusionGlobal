@@ -57,7 +57,7 @@ const offCanvasProps: IOffCanvas = {
   contactInfo: {
     location: ' 88 broklyn street, New York',
     phoneNumber: '+1 555-9990-153',
-    mail: 'info@example.com',
+    mail: 'contact@deepfusionglobal.com',
   },
   socialLinks: [
     {

@@ -59,7 +59,7 @@ export const footerSectionData: FooterSectionProps = {
     title: 'Address',
     location: `🇮🇳 India Development Center  
 🇺🇸 US Business Operations`,
-    mails: ['info@deepfusionglobal.com'],
+    mails: ['contact@deepfusionglobal.com'],
     phoneNumbers: ['+1 (848) 327-5735', '+91 9652538360'],
   },
   columnThree: {

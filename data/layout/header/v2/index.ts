@@ -4,7 +4,7 @@ import { menuItemsProps } from '../menu';
 export const headerData: HeaderProps = {
   contactInfo: {
     phone: '(848) 327-5735',
-    mail: 'info@example.com',
+    mail: 'contact@deepfusionglobal.com',
     address: 'Hyderabad',
   },
   ctaBtn: {
