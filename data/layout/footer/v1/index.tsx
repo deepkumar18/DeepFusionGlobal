@@ -57,9 +57,10 @@ export const footerSectionData: FooterSectionProps = {
   },
   columnTwo: {
     title: 'Address',
-    location: '2972 Westheimer Rd. Santa Ana, Illinois 85486 ',
-    mails: ['debbie.baker@example.com', 'nevaeh.simm@example.com'],
-    phoneNumbers: ['(405) 555-0128', '(629) 555-0129'],
+    location: `🇮🇳 India Development Center  
+🇺🇸 US Business Operations`,
+    mails: ['info@deepfusionglobal.com'],
+    phoneNumbers: ['+1 (848) 327-5735', '+91 9652538360'],
   },
   columnThree: {
     title: 'Recent Blog',
