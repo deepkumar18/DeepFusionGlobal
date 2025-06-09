@@ -1,0 +1,22 @@
+{
+  "node": {
+    "86fbd2dafa9d1f64c309e5cf73a1798cad59785d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdeepkumar%2FDesktop%2Fdeepfusionglobal%2FNode%2Fthemeforest-Tdjkniwq-techlab-it-solutions-and-services-react-nextjs-template%2Ftechlab-next%2Fsrc%2Flayout%2Fheader%2Fdesktop%2Fv2%2Foff-canvas%2Fform%2Fserver%2Fcontact-us-form-submit.ts%22%2C%5B%22contactUsFormSubmit%22%5D%5D%2C%5B%22%2FUsers%2Fdeepkumar%2FDesktop%2Fdeepfusionglobal%2FNode%2Fthemeforest-Tdjkniwq-techlab-it-solutions-and-services-react-nextjs-template%2Ftechlab-next%2Fsrc%2Fsections%2Fcontact%2Fv1%2Fform%2Fserver%2Fcontact-us-form-submit.ts%22%2C%5B%22contactUsFormSubmit%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "2d733dd8d3753a3ca9b5a8813a5e9419facdad7a": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdeepkumar%2FDesktop%2Fdeepfusionglobal%2FNode%2Fthemeforest-Tdjkniwq-techlab-it-solutions-and-services-react-nextjs-template%2Ftechlab-next%2Fsrc%2Flayout%2Fheader%2Fdesktop%2Fv2%2Foff-canvas%2Fform%2Fserver%2Fcontact-us-form-submit.ts%22%2C%5B%22contactUsFormSubmit%22%5D%5D%2C%5B%22%2FUsers%2Fdeepkumar%2FDesktop%2Fdeepfusionglobal%2FNode%2Fthemeforest-Tdjkniwq-techlab-it-solutions-and-services-react-nextjs-template%2Ftechlab-next%2Fsrc%2Fsections%2Fcontact%2Fv1%2Fform%2Fserver%2Fcontact-us-form-submit.ts%22%2C%5B%22contactUsFormSubmit%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "9LWTxrRqbJ1X1HJNQH8+Ofd6xh7Gsf3jw01nDyZjeuE="
+}

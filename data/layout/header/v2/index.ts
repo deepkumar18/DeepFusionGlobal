@@ -3,9 +3,9 @@ import { menuItemsProps } from '../menu';
 
 export const headerData: HeaderProps = {
   contactInfo: {
-    phone: '(629) 555-0129',
+    phone: '(848) 327-5735',
     mail: 'info@example.com',
-    address: '6391 Elgin St. Celina, 10299',
+    address: 'Hyderabad',
   },
   ctaBtn: {
     href: '/contact',
