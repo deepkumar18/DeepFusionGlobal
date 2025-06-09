@@ -33,8 +33,8 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/3.png',
         alt: 'portfolio-1',
       },
-      title: 'Cloud Migrate Pro',
-      description: 'Lorem Ipsum is simply dummy',
+      title: 'IT Infrastructure & DevOps',
+      description: 'Build, scale, and manage secure, cloud-native infrastructure.',
     },
     {
       slug: '/project/single',
@@ -42,8 +42,8 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/4.png',
         alt: 'portfolio-1',
       },
-      title: 'Cloud Migrate Pro',
-      description: 'Lorem Ipsum is simply dummy',
+      title: 'AI & Automation Solutions',
+      description: 'Harness intelligence to automate, predict, and optimize.',
     },
     {
       slug: '/project/single',
