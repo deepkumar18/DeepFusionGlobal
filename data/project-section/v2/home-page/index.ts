@@ -3,7 +3,7 @@ import { ProjectSectionProps } from '@/src/sections/project/v2';
 export const projectSectionData: ProjectSectionProps = {
   sectionHeading: {
     subtitle: 'Our Projects',
-    title: 'Empowering Your Digital Tomorrow',
+    title: 'Your Vision. Our Technology.',
   },
   link: {
     label: 'more projects',

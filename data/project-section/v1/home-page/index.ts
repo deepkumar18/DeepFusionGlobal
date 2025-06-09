@@ -34,7 +34,8 @@ export const projectSectionData: ProjectSectionProps = {
         alt: 'portfolio-1',
       },
       title: 'IT Infrastructure & DevOps',
-      description: 'Build, scale, and manage secure, cloud-native infrastructure.',
+      description:
+        'Build, scale, and manage secure, cloud-native infrastructure.',
     },
     {
       slug: '/project/single',

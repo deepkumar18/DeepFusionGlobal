@@ -60,9 +60,9 @@ export const aboutSectionData: AboutSectionProps = {
   },
   sectionHeading: {
     subtitle: 'About us',
-    title: 'Empowering Your Digital Tomorrow',
+    title: 'Your Vision. Our Technology.',
     description:
-      'It is a long established fact that a reader will be distracted by the readablejk content of a page when looking at its layout. Lorem Ipsum is simply dum text of the printing and typesetting industry loren ipsum',
+      'At Deep Fusion Tech Solutions, we drive innovation by blending vision with cutting-edge technology. Our mission is to transform bold ideas into scalable, impactful digital solutions—empowering businesses to thrive in a connected world.',
   },
   keyPoints: [
     {
